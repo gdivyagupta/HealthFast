@@ -17,3 +17,16 @@ featureCards.forEach(card => {
     card.style.transform = 'scale(1)';
   });
 });
+
+// Optional: Add animations or interactivity to the steps
+const steps = document.querySelectorAll('.step');
+
+steps.forEach(step => {
+  step.addEventListener('mouseover', () => {
+    step.style.transform = 'scale(1.05)';
+    step.style.transition = 'transform 0.3s ease';
+  });
+  step.addEventListener('mouseout', () => {
+    step.style.transform = 'scale(1)';
+  });
+});
