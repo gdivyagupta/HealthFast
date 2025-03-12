@@ -41,4 +41,4 @@ HealthFast is committed to ethical AI practices. We prioritize:
 - **Accessibility**: Ensuring the app is usable by all demographics, including those with disabilities or low digital literacy.
 
 ## Statement on LLM Usage
-Aspects of the code were troubleshooted using DeepSeek. DeepSeek was also used to help understand certain AI and web development concepts used in the development of the app. The entire chat history is documented and available in `llms/llm_usage.txt`.
+Aspects of the code were troubleshooted using DeepSeek. DeepSeek was also used to help understand certain AI and web development concepts used in the development of the app. The entire chat history is documented and available in `llm/llm_usage.txt`.
